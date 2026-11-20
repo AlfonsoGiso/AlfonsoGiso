@@ -3,7 +3,7 @@
 ### Hi, I'm Alfonso 👋
 
 Machine Learning Engineer with an M.Sc. in Computer Engineering (AI & Intelligent Robotics).  
-I design, train, and optimize deep learning architectures — currently focusing on **CNNs** and **time-series analysis**, after cutting my teeth on computer vision models like **YOLO** and **ResNet**.
+I design, train, and optimize deep learning architectures currently focusing on **CNNs** and **time-series analysis**, after cutting my teeth on computer vision models like **YOLO** and **ResNet**.
 
 #### Focus areas
 - **AI & Deep Learning:** PyTorch, CNNs, time-series analysis, computer vision, open-set recognition, local LLMs & voice pipelines
