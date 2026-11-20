@@ -1,3 +1,5 @@
+*Elen síla lúmenn' omentielvo* ❇️
+
 ### Hi, I'm Alfonso 👋
 
 Machine Learning Engineer with an M.Sc. in Computer Engineering (AI & Intelligent Robotics).  
@@ -5,7 +7,7 @@ I design, train, and optimize deep learning architectures — currently focusing
 
 #### Focus areas
 - **AI & Deep Learning:** PyTorch, CNNs, time-series analysis, computer vision, open-set recognition, local LLMs & voice pipelines
-- **Systems & Languages:** Python, Linux, Docker, GitHub
+- **Systems & Languages:** Python, Linux, Docker, Github
 
 #### Currently building
 - 🎙️ **EDITH** *(private repo)* — Local-first Python voice assistant combining local LLMs, full-duplex real-time speech interaction, and system control.
@@ -15,5 +17,4 @@ I design, train, and optimize deep learning architectures — currently focusing
 
 ---
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alfonso-giso-356102238/)  
-*Elen síla lúmenn' omentielvo* ❇️
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alfonso-giso-356102238/)
